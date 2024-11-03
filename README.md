@@ -7,6 +7,12 @@ Here's what you can crreate if you follow the code in this repo:
 
 ## The timelapse map of average July temperatures for every year between 2014 and 2023 for Switzerland 
 
+![alt text](https://github.com/milos-agathon/temperature-maps-with-krigr/blob/main/img/july_temperature.gif?raw=true)
+
 ## The timelapse map of average summer temperatures for every year between 2014 and 2023 for Switzerland 
 
+![alt text](https://github.com/milos-agathon/temperature-maps-with-krigr/blob/main/img/summer_temperature.gif?raw=true)
+
 ## The temperature anomaly map (2023 vs. average for 2014-2022) for Switzerland 
+
+![alt text](https://github.com/milos-agathon/temperature-maps-with-krigr/blob/main/img/temeprature_anomaly.png?raw=true)
